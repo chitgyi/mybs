@@ -1,0 +1,3 @@
+[submodule "mybs-db-module"]
+	path = mybs-db-module
+	url = https://github.com/chitgyi/mybs-db-module
