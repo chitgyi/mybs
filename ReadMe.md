@@ -34,6 +34,10 @@ git clone https://github.com/chitgyi/mybs.git
 cd mybs
 
 ## for update the latest version of modules
-## sync updated submodules' data
+
+## sync updated submodules' data for all modules
 git pull origin main --recurse-submodules
+
+## for specific module
+git submodule update --remote --init mybs_core_module
 ```
