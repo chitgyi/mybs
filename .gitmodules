@@ -1,0 +1,9 @@
+[submodule "mybs_core_module"]
+	path = mybs_core_module
+	url = https://github.com/chitgyi/mybs_core_module
+[submodule "mybs_db_module"]
+	path = mybs_db_module
+	url = https://github.com/chitgyi/mybs_db_module
+[submodule "mybs_home_module"]
+	path = mybs_home_module
+	url = https://github.com/chitgyi/mybs_home_module
