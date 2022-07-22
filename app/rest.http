@@ -1,0 +1,19 @@
+## fcm
+
+POST https://fcm.googleapis.com/fcm/send
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer AAAARpRARgM:APA91bFvtUGCXMmZmsR1msFRiQsffs6dArTnWLyzlfXrI1WOzdgRzJioTdXZp0PThQRQfOU69c_B0VwO37brd_7ussDCpcouI7FBWvhQheIzf-jWN6dRoxxuat9pbUunyB-biE_AQAHr
+
+{
+    "to": "/topics/testing", 
+    "notification": {
+        "title": "Testing",
+        "body": "Testing"
+    },
+    "data": {
+        "sound": true,
+        "badge": true,
+        "alert": true
+    }
+}

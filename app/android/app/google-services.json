@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "303134950915",
+    "project_id": "ygn-ybs",
+    "storage_bucket": "ygn-ybs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303134950915:android:2293b860a3dfd1042ab036",
+        "android_client_info": {
+          "package_name": "com.cya.mybs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303134950915-4cl9l289nohvlqitclr33su63k23ab6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkerx9EKPFTT6NEWgJ8x1xdULTwuDI-GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303134950915-4cl9l289nohvlqitclr33su63k23ab6a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303134950915-vfohr7jam0ggblcciugfsk1mc5gv9cdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cya.mybs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
