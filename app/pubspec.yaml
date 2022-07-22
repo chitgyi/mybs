@@ -11,12 +11,12 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  core_module:
-    path: ../core_module
-  db_module:
-    path: ../db_module
-  home_module:
-    path: ../home_module
+  mybs_core_module:
+    path: ../mybs_core_module
+  mybs_db_module:
+    path: ../mybs_db_module
+  mybs_home_module:
+    path: ../mybs_home_module
   # firebase_messaging:
   #   path: "./../flutterfire/packages/firebase_messaging/firebase_messaging"
 

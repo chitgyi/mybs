@@ -1,6 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:home_module/home_module.dart';
+import 'package:mybs_home_module/mybs_home_module.dart';
 import 'package:mybs/app_module_entry.dart';
 import 'package:mybs/firebase_options.dart';
 import 'package:mybs/mybs_app.dart';

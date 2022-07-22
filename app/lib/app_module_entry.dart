@@ -1,4 +1,4 @@
-import 'package:core_module/core_module.dart';
+import 'package:mybs_core_module/mybs_core_module.dart';
 import 'package:flutter/material.dart';
 
 class AppModuleEntry implements ModuleEntry {
